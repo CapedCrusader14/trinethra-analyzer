@@ -1,0 +1,22 @@
+[
+  {
+    "score": 1,
+    "description": "Poor performance"
+  },
+  {
+    "score": 2,
+    "description": "Needs improvement"
+  },
+  {
+    "score": 3,
+    "description": "Average performance"
+  },
+  {
+    "score": 4,
+    "description": "Good performance"
+  },
+  {
+    "score": 5,
+    "description": "Excellent performance"
+  }
+]
