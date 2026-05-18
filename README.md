@@ -81,7 +81,7 @@ D --> E[Structured JSON Response]
 E --> F[Frontend Dashboard UI]
 ```
 
-#Design Principles
+# Design Principles
 
 The architecture was designed with focus on:
 
