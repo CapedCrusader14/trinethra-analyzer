@@ -48,11 +48,13 @@ The tool does NOT replace the intern's judgment. It produces a draft analysis th
 The application should be up and running in your local system
 
 9. **Usage**
+
 -Paste supervisor transcript
 
 -Click “Run Analysis”
 
 -View:
+
   Rubric Score
   
   Evidence Extraction
