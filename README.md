@@ -108,5 +108,7 @@ Gap Detection- Identifying meaningful performance gaps from unstructured supervi
 Showing Uncertainty- LLM-generated evaluations can sometimes appear overly confident even when information is incomplete or ambiguous. To address this, the interface includes evidence-linked scoring, editable outputs, and a clear human-review warning to encourage evaluator oversight.
 
 
-# imporovement i would like to make with more time-
+**imporovement i would like to make with more time-**
 Build an evaluation history system so interns can revisit previous transcript analyses and compare performance trends over time.
+
+Add export functionality for downloading evaluation summaries as PDF reports for documentation and review purposes.
